@@ -1,0 +1,11 @@
+el posta con data augmentation
+https://www.kaggle.com/toponowicz/spoken-language-identification
+
+el que esta en la consigna
+https://github.com/JRMeyer/open-speech-corpora
+
+el choto
+https://www.kaggle.com/mozillaorg/common-voice?
+
+
+
